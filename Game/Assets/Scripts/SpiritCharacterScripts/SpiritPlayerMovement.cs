@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class SpirtPlayerMovement : MonoBehaviour {
+public class SpiritPlayerMovement : MonoBehaviour {
 	
 	public float MOVEMENT_SPEED = 20;
 	
