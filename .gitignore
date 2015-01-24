@@ -60,3 +60,9 @@ Game/*.booproj
 Game/sysinfo.txt
 Game/Game-csharp.v11.suo
 Game/Game-csharp.v11.suo
+
+*.meta
+
+*.meta
+
+*.meta
