@@ -79,3 +79,9 @@ Thumbs.db
 *.meta
 
 *.meta
+
+*.csproj
+
+*.csproj
+
+*.sln
