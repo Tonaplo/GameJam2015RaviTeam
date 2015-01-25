@@ -44,7 +44,6 @@ Temporary Items
 
 #Ignore the Library, the Temp, the ProjectSettings and the Solutions
 Game/[Ll]ibrary/*
-!Game/[Ll]ibrary/[Mm]etadata
 Game/[Tt]emp/
 Game/[Oo]bj/
 Game/[Bb]uild/
