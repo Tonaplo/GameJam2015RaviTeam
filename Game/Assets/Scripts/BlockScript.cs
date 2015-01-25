@@ -15,9 +15,9 @@ public class BlockScript : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 
-        secondsAsABlock -= Time.deltaTime;
+        timeUntillGhost -= Time.deltaTime;
 
-        if (secondsAsABlock <= 0f)
+        if (timeUntillGhost <= 0f)
         {
             //Spawn ghost in this position.
         }
